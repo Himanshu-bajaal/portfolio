@@ -1,1 +1,1 @@
-i have created this portfolio and also  used ai tools but i have the knowledge how everything is working inside my portfolio code . i only used ai for extra responsive features to make it more cool and interactive
+I have created this portfolio and i have also  used ai tools .i didnt fully rely on AI.  i have the knowledge how everything is working inside my portfolio code . i only used ai for extra responsive features to make it more cool and interactive.
